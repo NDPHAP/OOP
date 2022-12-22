@@ -1,0 +1,91 @@
+﻿  ANIMAL.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\ANIMAL.cpp(28,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CGAME.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.cpp(148,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CMAP.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(25,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(29,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(33,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(37,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(57,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(61,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(65,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(69,17): warning C4309: 'argument': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(80,28): warning C4244: 'argument': conversion from 'LONG' to 'SHORT', possible loss of data
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.cpp(80,17): warning C4244: 'argument': conversion from 'LONG' to 'SHORT', possible loss of data
+  Console.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CPEOPLE.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  EFFECT.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phap\Downloads\final\Testing\Testing\EFFECT.cpp(212,7): warning C4551: function call missing argument list
+  MENU.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(53,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(54,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(55,18): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(56,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(57,20): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\MENU.cpp(58,20): warning C4309: 'initializing': truncation of constant value
+  OBSTRUCTOR.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+  main.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(7,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(8,24): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(10,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(11,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CMAP.h(12,27): warning C4309: 'initializing': truncation of constant value
+C:\Users\Phap\Downloads\final\Testing\Testing\CGAME.h(33,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TRAFFIC.cpp
+  VEHICLE.cpp
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.h(30,2): warning C4129: '_': unrecognized character escape sequence
+C:\Users\Phap\Downloads\final\Testing\Testing\VEHICLE.cpp(28,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Testing.vcxproj -> C:\Users\Phap\Downloads\final\Testing\x64\Debug\Testing.exe
